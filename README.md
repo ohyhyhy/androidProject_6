@@ -29,11 +29,8 @@
 -android@hansung.ac.kr/hansungandroid
 -a@a.com/aaaaaa
  ```
- 
 
-<h4>• galaxy, galaxy watch, galaxy tab, buds, budspro는 
-android@hansung.ac.kr 계정의 물품이고,
-iphone, airpods 는 a@a.com 계정의 물품입니다.</h4>
+ 
 <br>
 <h4>• 판매 목록📋의 toolbar의 첫번째 항목을 통해 다른 사용자로부터 받은 모든 메세지💬를 볼 수 있고, 두번째 항목을 통해 로그아웃이 가능합니다.</h4>
 <br>
@@ -47,4 +44,4 @@ iphone, airpods 는 a@a.com 계정의 물품입니다.</h4>
 <br>
 <h4>• 채팅 목록📋에는 송신사의 이메일 계정과 메세지💬 내용을 볼 수 있습니다.</h4>
 <br>
-<h4>• 본인의 글에서 판매글 수정시 판매 여부를 체크하면 판매중, 체크를 안하면 판매완료로 저장됩니다.</h4>
+<h4>• 본인의 글에서 판매글 수정시 판매 여부를 체크☑️하면 판매중, 체크를 안하면 판매완료로 저장됩니다.</h4>
