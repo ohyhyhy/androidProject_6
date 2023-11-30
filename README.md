@@ -31,7 +31,7 @@
  ```
  
 
-<h4>• galaxy, galaxy watch, galaxy tab, buds, buds는 
+<h4>• galaxy, galaxy watch, galaxy tab, buds, budspro는 
 android@hansung.ac.kr 계정의 물품이고,
 iphone, airpods 는 a@a.com 계정의 물품입니다.</h4>
 <br>
