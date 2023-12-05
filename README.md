@@ -23,7 +23,7 @@
 ```
 
 <h4>• Authentication 계정 생성가능
-<br>
+<br><br>
 ❗ id 생성시 이메일 형식을 맞춰주시고, password는 6자리 이상만 가능합니다.
 </h4>
 
